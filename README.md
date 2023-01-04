@@ -3,7 +3,7 @@
 
 ### Pagination in React JS is a function of apps that allows them to show data on a series of pages. 
 ### The information can be seen by going from one page to the next rather than viewing it.
-### This process is frequently done in conjunction with server-side technology that allows clients to make group requests for data
+### This process is frequently done in conjunction with server-side technology that allows clients to make group requests for data.
 
 
 
