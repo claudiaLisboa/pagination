@@ -1,4 +1,5 @@
 
+import src from "gsap/src";
 import React, { useEffect, useState } from "react";
 import './App.css';
 
@@ -25,17 +26,17 @@ export default function App() {
     },[])
     return (
       <div >
-           {
-              products.length > 0 && <div className="products">
-                {
-                  products.map((prod) => {
-                    return <span>{prod.title}</span>
+        { products.length > 0 && <div className="products">
+            {products.map((prod) => {
+                //return <span>{prod.title}</span>
+                  return <span>
+                          <img src= {prod.thumbnail} />
+                      </span>
+              })
+            }
 
-                  })
-                }
-
-              </div>
-           }
+          </div>
+        }
         
       </div>
     );
