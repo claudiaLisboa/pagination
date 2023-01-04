@@ -1,3 +1,4 @@
+
 .products {
   margin:20px;
   padding:0;
@@ -8,11 +9,12 @@
   font-family: "Neucha", cursive;
   font-size: 20px;
   font-weight: bold;
+  
 }
 .products__single{
   height: 250px;
   padding: 20px;
-  background-color: #bccad6;
+  background-color: #667292;
   text-align: center;
   border-radius: 6px;
   cursor:pointer;
@@ -24,8 +26,30 @@
   height: 95%;
   object-fit: cover;
   margin-bottom: 1px;
+  
 
+}
 
+.pagination{
+  padding: 10px;
+  margin: 15px 0;
+  display:flex;
+  justify-content: center;
+  font-family: "Neucha", cursive;
+
+}
+.pagination > span{
+  padding: 15px ;
+  border: 2px solid gray;
+  cursor: pointer;
+}
+
+.pagination__disable{
+  opacity: 0;
+}
+
+.pagination__selected{
+  background-color: rgb(220, 220, 220);
 }
 
 /* Sky Palettes
