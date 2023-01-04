@@ -21,7 +21,7 @@ export default function App() {
     console.log(products);
 
     useEffect(() =>{
-      fetchProducts()
+      fetchProducts();
 
     },[])
     return (
@@ -29,8 +29,9 @@ export default function App() {
         { products.length > 0 && <div className="products">
             {products.map((prod) => {
                 //return <span>{prod.title}</span>
-                  return <span>
-                          <img src= {prod.thumbnail} />
+                  return <span className="products__single" key={prod.id}>
+                          <img src= {prod.thumbnail}  alt={prod.title} />
+                          <span>{prod.title}</span>
                       </span>
               })
             }
