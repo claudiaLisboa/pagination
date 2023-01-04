@@ -1,19 +1,20 @@
 # `Product Pagination` 
 
 
-<img width="862" alt="pagination1" src="https://user-images.githubusercontent.com/21189063/210670715-e776956e-015a-45f7-922d-d84d6c25035b.png">
+<img width="738" alt="pagination1" src="https://user-images.githubusercontent.com/21189063/210671346-1d59ec3a-491e-4f68-bc49-c3d712622575.png">
 
-<img width="862" alt="pagination2" src="https://user-images.githubusercontent.com/21189063/210670728-7828bf7e-7ed9-47a9-aff8-174afc41637a.png">
+<img width="750" alt="pagination2" src="https://user-images.githubusercontent.com/21189063/210671366-773dfed8-9c14-466a-8c82-da2e07e5e35f.png">
 
-<img width="862" alt="pagination3" src="https://user-images.githubusercontent.com/21189063/210670745-982a1140-cfd1-4956-939a-23f302f537ea.png">
+<img width="748" alt="pagination3" src="https://user-images.githubusercontent.com/21189063/210671392-b05aadec-0723-42c7-99d5-bd3739e8b24e.png">
 
-<img width="862" alt="pagination4" src="https://user-images.githubusercontent.com/21189063/210670758-b92ec2d6-2778-467b-a85f-157d19312720.png">
+<img width="750" alt="pagination4" src="https://user-images.githubusercontent.com/21189063/210671405-87ea50c5-ea8c-4932-af08-345524fa5802.png">
 
-<img width="862" alt="pagination5" src="https://user-images.githubusercontent.com/21189063/210670771-0edf1ccb-5476-4181-a985-8652f9973384.png">
+<img width="747" alt="pagination5" src="https://user-images.githubusercontent.com/21189063/210671421-0bb3ce36-629f-481b-9c07-b3e6899bd6db.png">
 
-![pagination6](https://user-images.githubusercontent.com/21189063/210670799-f330e83a-61a2-4869-a305-81151b0edcfc.png)
 
-![pagination7](https://user-images.githubusercontent.com/21189063/210670824-4c1abca1-b8a3-4678-9827-727f4f5d3a3a.png)
+![pagination6](https://user-images.githubusercontent.com/21189063/210671465-e3e948b1-0a62-4879-9b8e-d6b2a1dc03b8.png)
+
+![pagination7](https://user-images.githubusercontent.com/21189063/210671477-e0db9df3-38b5-4b52-bbf2-cd2f88a9658b.png)
 
 
 #########################################
