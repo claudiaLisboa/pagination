@@ -1,8 +1,32 @@
-# Getting Started with Create React App
+# `Product Pagination` 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<img width="862" alt="pagination1" src="https://user-images.githubusercontent.com/21189063/210670715-e776956e-015a-45f7-922d-d84d6c25035b.png">
+
+<img width="862" alt="pagination2" src="https://user-images.githubusercontent.com/21189063/210670728-7828bf7e-7ed9-47a9-aff8-174afc41637a.png">
+
+<img width="862" alt="pagination3" src="https://user-images.githubusercontent.com/21189063/210670745-982a1140-cfd1-4956-939a-23f302f537ea.png">
+
+<img width="862" alt="pagination4" src="https://user-images.githubusercontent.com/21189063/210670758-b92ec2d6-2778-467b-a85f-157d19312720.png">
+
+<img width="862" alt="pagination5" src="https://user-images.githubusercontent.com/21189063/210670771-0edf1ccb-5476-4181-a985-8652f9973384.png">
+
+![pagination6](https://user-images.githubusercontent.com/21189063/210670799-f330e83a-61a2-4869-a305-81151b0edcfc.png)
+
+![pagination7](https://user-images.githubusercontent.com/21189063/210670824-4c1abca1-b8a3-4678-9827-727f4f5d3a3a.png)
+
+
+#########################################
+
+### `Content viewed with this project :`
+
+- Fetch Products Data
+- Render all Products
+- Pagination Implementation
+- Next and Previous Page Logic
+
+
+#########################################
 
 In the project directory, you can run:
 
@@ -33,39 +57,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# pagination
