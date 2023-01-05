@@ -3,7 +3,7 @@
 
 `"Pagination in React JS is a function of apps that allows them to show data on a series of pages.The information can be seen by going from one page to the next rather than viewing it.This process is frequently done in conjunction with server-side technology that allows clients to make group requests for data."`
 
-
+### For studding proposes 
 
 <img width="738" alt="pagination1" src="https://user-images.githubusercontent.com/21189063/210671346-1d59ec3a-491e-4f68-bc49-c3d712622575.png">
 
