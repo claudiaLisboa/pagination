@@ -16,19 +16,15 @@
 <img width="747" alt="pagination5" src="https://user-images.githubusercontent.com/21189063/210671421-0bb3ce36-629f-481b-9c07-b3e6899bd6db.png">
 
 
-![pagination6](https://user-images.githubusercontent.com/21189063/210671465-e3e948b1-0a62-4879-9b8e-d6b2a1dc03b8.png)
-
-![pagination7](https://user-images.githubusercontent.com/21189063/210671477-e0db9df3-38b5-4b52-bbf2-cd2f88a9658b.png)
-
-
 #########################################
 
-### `Content viewed with this project :`
+## `Content viewed with this project :`
 
 - Fetch Products Data
 - Render all Products
 - Pagination Implementation
 - Next and Previous Page Logic
+
 
 
 #########################################
