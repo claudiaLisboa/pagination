@@ -19,11 +19,10 @@
 #########################################
 
 ## `Content viewed with this project :`
-
-- Fetch Products Data
-- Render all Products
-- Pagination Implementation
-- Next and Previous Page Logic
+- `Fetch Products Data`
+- `Render all Products`
+- `Pagination Implementation`
+- `Next and Previous Page Logic`
 
 
 
